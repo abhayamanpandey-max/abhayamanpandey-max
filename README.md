@@ -27,7 +27,7 @@ I focus on building high-throughput, resilient data infrastructure and designing
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayamanpandey-max&layout=compact&theme=tokyonight" alt="Top Langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayamanpandey-max&layout=compact&theme=tokyonight&count_private=true&language_count=10" alt="Top Langs" />
 </p>
 
 ### 🔥 Streak Stats
