@@ -2,9 +2,14 @@
 
 ### Aspiring Data Engineer | Computer Engineering Student @ Mumbai University
 I focus on building high-throughput, resilient data infrastructure and designing scalable pipelines that bridge the gap between raw data and analytical insights. 
+---
+## 🚀 Featured Project
+### 📊 [Automated YouTube Data Pipeline (AWS E2E)](https://github.com/abhayamanpandey-max/Automated-youtube-data-piepline-aws-s3-lambda-glue-athena-stepfunction)
+> A production-ready, high-throughput AWS data pipeline that aggregates raw YouTube metrics across multiple dimensions using **S3, Lambda, Glue PySpark, Athena, Step Functions, and Streamlit**.
+> 
+> 🔗 **[Explore the Repository →](https://github.com/abhayamanpandey-max/Automated-youtube-data-piepline-aws-s3-lambda-glue-athena-stepfunction)**
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 - **Languages:** Python, SQL
