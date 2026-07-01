@@ -1,50 +1,89 @@
 # Hi there, I'm Abhay Pandey 👋
 
-### Aspiring Data Engineer | Computer Engineering Student @ Mumbai University
-I focus on building high-throughput, resilient data infrastructure and designing scalable pipelines that bridge the gap between raw data and analytical insights. 
----
-## 🚀 Featured Project
-### 📊 [Automated YouTube Data Pipeline (AWS E2E)](https://github.com/abhayamanpandey-max/Automated-youtube-data-piepline-aws-s3-lambda-glue-athena-stepfunction)
-> A production-ready, high-throughput AWS data pipeline that aggregates raw YouTube metrics across multiple dimensions using **S3, Lambda, Glue PySpark, Athena, Step Functions, and Streamlit**.
-> 
-> 🔗 **[Explore the Repository →](https://github.com/abhayamanpandey-max/Automated-youtube-data-piepline-aws-s3-lambda-glue-athena-stepfunction)**
+### 🚀 Data Engineering Enthusiast | Data Science & Machine Learning Intern @ UniConverge Technologies | Computer Engineering Student @ Mumbai University
+
+I build scalable, end-to-end data pipelines that transform raw data into analytics-ready insights using modern Data Engineering technologies. Passionate about cloud computing, distributed data processing, and real-world data infrastructure.
 
 ---
+
+## 🚀 Featured Project
+
+### 📊 Automated AWS End-to-End YouTube Data Pipeline
+
+> A production-ready end-to-end AWS Data Engineering pipeline that automates data ingestion, transformation, and analytics using **Amazon S3, AWS Lambda, AWS Glue (PySpark), AWS Step Functions, Amazon Athena, and Streamlit**.
+
+🔗 **Repository:**  
+https://github.com/abhayamanpandey-max/automated-aws-end-to-end-youtube-data-pipeline
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, SQL
-- **Streaming & Messaging:** Apache Kafka
-- **Processing Engine:** Apache Spark (PySpark)
-- **Lakehouse Storage:** Delta Lake, Databricks, Snowflake
-- **Orchestration:** Apache Airflow
-- **Cloud & DevOps:** AWS, Docker
+### 💻 Languages
+- Python
+- SQL
+
+### ☁️ Cloud
+- AWS (S3, Lambda, Glue, Athena, Step Functions, IAM)
+
+### 📊 Data Engineering
+- Apache Spark (PySpark)
+- Apache Kafka
+- Apache Airflow
+- PyFlink
+- dbt
+- Delta Lake
+- Databricks
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+
+### 📈 Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+
+### 🛠️ Tools
+- Git
+- GitHub
+- Docker
+- Jupyter Notebook
+- VS Code
 
 ---
 
-## 🚀 What I'm Up To
-- 🎓 Pursuing my Bachelor of Engineering in Computer Engineering (Expected 2027).
-- 🛠️ Building and optimizing data pipelines using Spark and Kafka.
-- 🔍 Actively seeking **Data Engineering Internship** opportunities to solve complex, large-scale data challenges.
+## 🚀 What I'm Currently Working On
+
+- 🎓 Pursuing a Bachelor of Engineering in Computer Engineering (Expected 2027)
+- 💼 Data Science & Machine Learning Intern at UniConverge Technologies
+- 🏗️ Building production-ready Data Engineering projects using AWS, PySpark, Kafka, Airflow, and dbt
+- 📚 Strengthening SQL, System Design, and Data Engineering fundamentals
+- 🎯 Preparing for Winter 2026 Data Engineering Internship opportunities
 
 ---
 
 ## 📊 GitHub Analytics
 
-### 🛠️ Languages and Tools
+### 🛠️ Most Used Languages
+
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayamanpandey-max&layout=compact&theme=tokyonight&count_private=true&language_count=10" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayamanpandey-max&layout=compact&theme=tokyonight&count_private=true&language_count=10"/>
 </p>
 
-### 🔥 Streak Stats
+### 🔥 GitHub Streak
+
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayamanpandey-max&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayamanpandey-max&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
-Let's collaborate or talk data architecture!
+I'm always interested in connecting with Data Engineers, Developers, Recruiters, and fellow learners.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pandey-2752ab39b)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhay.aman.pandey@gmail.com)
