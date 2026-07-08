@@ -1,79 +1,61 @@
 # Hi there, I'm Abhay Pandey 👋
 
-### 🚀 Data Engineering Enthusiast | Data Science & Machine Learning Intern @ UniConverge Technologies | Computer Engineering Student @ Mumbai University
+### 🚀 Data Engineer | Specializing in Distributed Systems & Cloud Infrastructure
 
-I build scalable, end-to-end data pipelines that transform raw data into analytics-ready insights using modern Data Engineering technologies. Passionate about cloud computing, distributed data processing, and real-world data infrastructure.
+Data Engineering student focusing on building scalable, high-throughput, and fault-tolerant data pipelines that enforce strict data contracts. Experienced in stream processing engines (PyFlink, Kafka), batch processing (PySpark), and modern cloud lakehouses.
 
----
-
-## 🚀 Featured Project
-
-### 📊 Automated AWS End-to-End YouTube Data Pipeline
-
-> A production-ready end-to-end AWS Data Engineering pipeline that automates data ingestion, transformation, and analytics using **Amazon S3, AWS Lambda, AWS Glue (PySpark), AWS Step Functions, Amazon Athena, and Streamlit**.
-
-🔗 **Repository:**  
-https://github.com/abhayamanpandey-max/automated-aws-end-to-end-youtube-data-pipeline
+🏢 **Current:** Data Science & Machine Learning Intern @ UniConverge Technologies  
+🎯 **Looking for:** Immediate 6-month **Data Engineering Internship** opportunities — Remote / Hybrid (Mumbai).
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏗️ Featured Data Engineering Architectures
 
-### 💻 Languages
-- Python
-- SQL
+### 💳 [High-Throughput Real-Time Payment Ingestion & Anomaly Mitigation Rail](https://github.com/abhayamanpandey-max/High-Throughput-Payment-Ingestion-Rail)
+* **Tech Stack:** Docker, Apache Kafka, PyFlink, Databricks (Delta Lake), Apache Airflow
+* **Core Architecture:** Multi-threaded Python Driver $\rightarrow$ Kafka Brokers $\rightarrow$ Stateful PyFlink Streaming (sliding windows) $\rightarrow$ Medallion Lakehouse via Delta Lake Sink.
+* **Engineering Impact:** Load-tested and benchmarked ingestion at **up to 5,000 TPS** with sub-200ms processing latency and isolated network tiers.
 
-### ☁️ Cloud
-- AWS (S3, Lambda, Glue, Athena, Step Functions, IAM)
+### 📊 [Automated AWS End-to-End YouTube Data Pipeline](https://github.com/abhayamanpandey-max/automated-aws-end-to-end-youtube-data-pipeline)
+* **Tech Stack:** AWS (S3, Lambda, Glue, Step Functions, Athena), PySpark, Streamlit
+* **Core Architecture:** YouTube API $\rightarrow$ Serverless Lambda Ingestion $\rightarrow$ Step Functions State Machine $\rightarrow$ AWS Glue (PySpark) ETL $\rightarrow$ Partitioned Parquet Storage.
+* **Engineering Impact:** Deployed a data-quality gate inside a serverless state machine catching data drift before partition writes; achieved **$\sim$80% Parquet storage compression**.
 
-### 📊 Data Engineering
-- Apache Spark (PySpark)
-- Apache Kafka
-- Apache Airflow
-- PyFlink
-- dbt
-- Delta Lake
-- Databricks
+### 🤖 [Enterprise Multi-Sink Streaming Agent](https://github.com/abhayamanpandey-max/pyflink-kafka-postgres-agent)
+* **Tech Stack:** PyFlink (Table API), KRaft Kafka, PostgreSQL, Docker, Google ADK
+* **Core Architecture:** Natural Language Intent $\rightarrow$ Decoupled Docker Streaming Infrastructure $\rightarrow$ PyFlink Table API Normalization $\rightarrow$ Dual-Sink StatementSet.
+* **Engineering Impact:** Engineered stream-cleaning workflows executing inline regex IPv4 anonymization and multi-sink synchronization in a single job graph execution.
 
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
+---
 
-### 📈 Data Analysis & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Streamlit
+## 🛠️ Tech Stack & Core Engineering Tools
 
-### 🛠️ Tools
-- Git
-- GitHub
-- Docker
-- Jupyter Notebook
-- VS Code
+### 💻 Core Capabilities
+* **Languages:** Python (Advanced), SQL (CTEs, Window Functions, Query Optimization), Bash/Shell
+* **Streaming & Messaging:** Apache Kafka (KRaft), Apache Flink (PyFlink Table/DataStream API)
+* **Processing Engines:** Apache Spark (PySpark), Delta Live Tables (DLT)
+* **Cloud & Lakehouse:** AWS (S3, Lambda, Glue, Athena, Step Functions, Kinesis), Databricks, Delta Lake, dbt
+* **Databases:** PostgreSQL, MySQL, Apache Parquet
+* **DevOps & Orchestration:** Apache Airflow, Docker / Docker Compose, Linux, Git / GitHub
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- 🎓 Pursuing a Bachelor of Engineering in Computer Engineering (Expected 2027)
-- 💼 Data Science & Machine Learning Intern at UniConverge Technologies
-- 🏗️ Building production-ready Data Engineering projects using AWS, PySpark, Kafka, Airflow, and dbt
-- 📚 Strengthening SQL, System Design, and Data Engineering fundamentals
-- 🎯 Preparing for Winter 2026 Data Engineering Internship opportunities
+- 🎓 Graduating in **June 2027** with a B.E. in Computer Engineering from Mumbai University.
+- 💼 Gaining real-world industry experience through my internship at UniConverge Technologies.
+- 📚 Deepening my knowledge in the internals of distributed consensus, memory management layers (Spark/Flink execution layers), and system design fundamentals.
 
 ---
 
 ## 📊 GitHub Analytics
 
 ### 🛠️ Most Used Languages
-
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayamanpandey-max&layout=compact&theme=tokyonight&count_private=true&language_count=10"/>
 </p>
 
 ### 🔥 GitHub Streak
-
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayamanpandey-max&theme=tokyonight"/>
 </p>
@@ -82,8 +64,17 @@ https://github.com/abhayamanpandey-max/automated-aws-end-to-end-youtube-data-pip
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with Data Engineers, Developers, Recruiters, and fellow learners.
+I am actively searching for Data Engineering internship opportunities where I can solve infrastructure scaling challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pandey-2752ab39b)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhay.aman.pandey@gmail.com)
+
+
+
+
+
+
+
+
+
+
