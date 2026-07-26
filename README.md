@@ -14,7 +14,7 @@ Data Engineering student focusing on building scalable, high-throughput, and fau
 ### 💳 [High-Throughput Real-Time Payment Ingestion & Anomaly Mitigation Rail](https://github.com/abhayamanpandey-max/High-Throughput-Payment-Ingestion-Rail)
 * **Tech Stack:** Docker, Apache Kafka, PyFlink, Databricks (Delta Lake), Apache Airflow
 * **Core Architecture:** Multi-threaded Python Driver $\rightarrow$ Kafka Brokers $\rightarrow$ Stateful PyFlink Streaming (sliding windows) $\rightarrow$ Medallion Lakehouse via Delta Lake Sink.
-* **Engineering Impact:** Load-tested and benchmarked ingestion at **up to 5,000 TPS** with sub-200ms processing latency and isolated network tiers.
+* **Engineering Impact:** Load-tested and benchmarked ingestion at **up to 44,830 TPS** with sub-200ms processing latency and isolated network tiers.
 
 ### 📊 [Automated AWS End-to-End YouTube Data Pipeline](https://github.com/abhayamanpandey-max/automated-aws-end-to-end-youtube-data-pipeline)
 * **Tech Stack:** AWS (S3, Lambda, Glue, Step Functions, Athena), PySpark, Streamlit
