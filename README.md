@@ -9,7 +9,7 @@ Data Engineering student focusing on building scalable, high-throughput, and fau
 
 ---
 
-## 🏗️ Featured Data Engineering Architectures
+## 🏗️ Featured Data Engineering Architectures Projects
 
 ### 💳 [High-Throughput Real-Time Payment Ingestion & Anomaly Mitigation Rail](https://github.com/abhayamanpandey-max/High-Throughput-Payment-Ingestion-Rail)
 * **Tech Stack:** Docker, Apache Kafka, PyFlink, Databricks (Delta Lake), Apache Airflow
